@@ -4,7 +4,7 @@ Full Modular Monolith .NET application with Domain-Driven Design approach.
 
 ## FrontEnd application
 
-FrontEnd application : [Modular Monolith With DDD: FrontEnd React application](https://github.com/kgrzybek/modular-monolith-with-ddd-fe-react)
+FrontEnd application : [Modular Monolith With DDD: FrontEnd React application](https://github.com/cclautert/Modular-Monolith-using-DDD)
 
 ## Table of contents
 
